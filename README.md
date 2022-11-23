@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+# Entrega de atividade de criação de aplicação de pokedex responsiva
